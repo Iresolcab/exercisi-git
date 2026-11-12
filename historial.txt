@@ -1,0 +1,6 @@
+* 09d343f Afegir módul
+| * ea5cb92 Afegir contacte
+|/  
+* 2273615 Afegir gitignore
+* 16c2d35 Primer commit
+* 13ac3c6 Initial commit
